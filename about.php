@@ -15,7 +15,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#"><img src="imgs/logo.jpg" alt="" srcset="" style="width: 60px;"> AUK HELP-DESK SYSTEM</a>
+            <a class="navbar-brand" href="#"><img src="imgs/newlogo.jpg" alt="" srcset="" style="width: 60px;"> HELP-DESK SYSTEM</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
@@ -51,7 +51,7 @@
             <div class="card" id="login">
                 <div class="card-body">
                     <h3 class="mb-4"><i class="fas fa-align-center"></i>&ensp;About Us</h3>
-                   <p>Why do we use it? It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p> 
+                   <p>Welcome to our Help Desk System Name, the comprehensive solution designed to streamline support and enhance efficiency within your institution. Whether you’re managing a bustling university, a dynamic corporate office, or a vibrant community organization, our help desk system is tailored to meet your unique needs.</p> 
                 </div>
             </div>
             
@@ -61,7 +61,7 @@
 
     <nav class="navbar fixed-bottom navbar-dark">
         <div class="container justify-content-center">
-            <span style="color: white;">Copyright @2021 Al-Qalam University Gusau</span>
+            <span style="color: white;">Copyright @2024</span>
         </div>
     </nav>
 </body>

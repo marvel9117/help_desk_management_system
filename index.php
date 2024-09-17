@@ -18,7 +18,7 @@ include 'scripts/class_auto_loader.php';
 
     <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#"><img src="imgs/logo.jpg" alt="" srcset="" style="width: 60px;">HELP-DESK SYSTEM</a>
+            <a class="navbar-brand" href="#"><img src="imgs/newlogo.jpg" alt="" srcset="" style="width: 60px;">  HELP-DESK SYSTEM</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
@@ -57,19 +57,19 @@ include 'scripts/class_auto_loader.php';
             <div class="card" style="width: 18rem;">
                 <img src="imgs/help_desk_5.png" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">Support isn’t just a service; it’s our commitment to your success.</p>
                 </div>
             </div>
             <div class="card" style="width: 18rem;">
                 <img src="imgs/help_desk_5.png" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">Here to help, here to listen, here to solve.</p>
                 </div>
             </div>
             <div class="card" style="width: 18rem;">
                 <img src="imgs/help_desk_5.png" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">Empowering you with answers, one solution at a time.</p>
                 </div>
             </div>
         </div>
