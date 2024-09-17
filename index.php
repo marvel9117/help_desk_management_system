@@ -47,7 +47,7 @@ include 'scripts/class_auto_loader.php';
     <div class="">
 
         <div class="card bg-dark text-white">
-            <img src="imgs/sign.png" class="card-img" alt="..." style="width: 100%; height: 400px;">
+            <img src="imgs/sign.jpg" class="card-img" alt="..." style="width: 100%; height: 400px;">
             <div class="card-img-overlay" style="display: flex; align-items:cneter; justify-content:center; color:tomato;">
                 <h3 class="card-title" style="margin-top: 130px;">WELCOME TO HELP DESK SYSTEM</h3>
             </div>
@@ -77,7 +77,7 @@ include 'scripts/class_auto_loader.php';
 
     <nav class="navbar fixed-bottom navbar-dark">
         <div class="container justify-content-center">
-            <span style="color: white;">Copyright @2021 Al-Qalam University Katsina</span>
+            <span style="color: white;"></span>
         </div>
     </nav>
 
