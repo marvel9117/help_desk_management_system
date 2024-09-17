@@ -27,7 +27,7 @@
 
      <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#"><i class="fas fa-ticket-alt"></i> AUK HELP-DESK SYSTEM</a>
+            <a class="navbar-brand" href="#"><i class="fas fa-ticket-alt"></i> HELP-DESK SYSTEM</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
             </button>
@@ -215,7 +215,7 @@
 
     <nav class="navbar fixed-bottom navbar-dark">
         <div class="container justify-content-center">
-            <span style="color: white;">Copyright @2021 Al-Qalam University Gusau</span>
+            <span style="color: white;">Copyright @2024</span>
         </div>
     </nav>
 </body>

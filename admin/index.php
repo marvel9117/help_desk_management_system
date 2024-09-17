@@ -179,7 +179,7 @@
 
     <nav class="navbar fixed-bottom navbar-dark">
         <div class="container justify-content-center">
-            <span style="color: white;">Copyright @2021 Al-Qalam University Gusau</span>
+            <span style="color: white;">Copyright @2024</span>
         </div>
     </nav>
 
