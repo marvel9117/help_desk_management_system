@@ -51,7 +51,7 @@
             <div class="card" id="login">
                 <div class="card-body">
                     <h3 class="mb-4"><i class="fas fa-align-center"></i>&ensp;About Us</h3>
-                   <p>Welcome to our Help Desk System, the comprehensive solution designed to streamline support and enhance efficiency within your institution. Whether you’re managing a bustling university, a dynamic corporate office, or a vibrant community organization, our help desk system is tailored to meet your unique needs.</p> 
+                   <p>Welcome to our HelpDesk System, the comprehensive solution designed to streamline support and enhance efficiency within your Institution. Whether you’re managing a bustling University, a dynamic corporate office, or a vibrant community organization, our help desk system is tailored to meet your unique needs.</p> 
                 </div>
             </div>
             
